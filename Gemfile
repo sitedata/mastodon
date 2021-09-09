@@ -129,7 +129,7 @@ end
 group :development do
   gem 'active_record_query_trace', '~> 1.7'
   gem 'annotate', '~> 3.0'
-  gem 'better_errors', '~> 2.5'
+  gem 'better_errors', '~> 2.8', '>= 2.8.0'
   gem 'binding_of_caller', '~> 0.7'
   gem 'bullet', '~> 6.1'
   gem 'letter_opener', '~> 1.7'
